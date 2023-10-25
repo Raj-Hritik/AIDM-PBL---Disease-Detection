@@ -1,2 +1,2 @@
-# AIDM-PBL---Disease-Detection
-AIDM-PBL---Disease-Detection
+# Machine Learning Project on Disease Predictions using Symptoms
+# AIDM Project Based Learning
